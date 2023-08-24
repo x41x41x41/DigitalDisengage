@@ -15,3 +15,5 @@ The rough steps (regardless of service) are likely to be similar to the below
 5. Go back to 1/2/4 and ensure information hasn't been added back
 
 Don't forget about other things such as third party connections, shared resources (i.e oneDrive folders), and automations that may forward stuff to a third party (i.e autoforwarding rules).
+
+Links/Videos to guides hosted elsewhere are fine, although ideally the steps should be outlined here.
