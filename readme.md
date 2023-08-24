@@ -6,3 +6,9 @@ Unfortunately, I had to provide this information when asked for advice about how
 # Want to contribute?
 Create an MD file for the service in question and then a step by step guide to how to eject someone/something from the service.
 
+The rough steps (regardless of service) are likely to be similar to the below
+
+1. Check recovery information is correct and as expected
+2. Remove any application specific passwords or alternative access
+3. Change your password
+4. Clear any existing sessions and remove any connected devices
