@@ -12,5 +12,6 @@ The rough steps (regardless of service) are likely to be similar to the below
 2. Remove any application specific passwords or alternative access
 3. Change your password
 4. Clear any existing sessions and remove any connected devices
+5. Go back to 1/2/5 and ensure information hasn't been added back
 
 But don't forget about other things such as third party connections, shared resources (i.e oneDrive folders), and automations that may forward stuff to a third party (i.e autoforwarding rules).
