@@ -1,4 +1,4 @@
-##Microsoft Account (inc Outlook)
+## Microsoft Account (inc Outlook)
 1. Check your recovery information here - [https://mysignins.microsoft.com/security-info](https://mysignins.microsoft.com/security-info)
 2. Change your password here - [https://myaccount.microsoft.com/](https://myaccount.microsoft.com/)
 3. Check your devices here and disable any you don't recognise - [https://myaccount.microsoft.com/device-list](https://myaccount.microsoft.com/device-list)
